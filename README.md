@@ -1,2 +1,3 @@
 # 100-double-pendulums
-Visualisation of Chaos theory 
+Personal Project
+Visualisation of Chaos theory - sets off 100 double pendulums at user specified starting position, separated by 0.08 radians. 
